@@ -88,6 +88,7 @@ hr {
 }
 .container-img {
   position: relative;
+  line-height: 0%;
 }
 .container-img::before {
   content: "";
